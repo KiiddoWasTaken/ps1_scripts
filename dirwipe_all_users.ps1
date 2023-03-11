@@ -1,3 +1,5 @@
+# ADD TO TASK SCHEDULER
+
 $users = Get-ChildItem "C:\Users" -Directory
 $dirName = "Outlook"
 
